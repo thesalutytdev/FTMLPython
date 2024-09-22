@@ -1,0 +1,7 @@
+name: 'FTML'
+ftml: 'Fuck This Markup Language'
+why_this_name: 'Idk :>'
+about: 'This is simple markup language made in like 2 hours'
+author: 'TheSALUTYT'
+version: 1.0
+advices: ['Be kind.', 'Put space after semicolon.', 'Use only one type of quotes.', 'Use comments.', 'Use underscores.']

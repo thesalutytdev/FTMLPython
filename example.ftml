@@ -1,0 +1,39 @@
+#==========================================
+# |        EXAMPLE OF FTML FILE
+# |           By: TheSALUTYT
+# |
+# |           With love :3
+#==========================================
+
+string: 'string value'
+other_string: "other string value"
+and_other_string: `yes, this is string too`
+
+# FTML Supports any type of quotes!
+
+integer: 1
+float: 1.5
+double: 3.14159265359
+
+# Float - 1 number after dot, Double - infinite numbers after dot
+
+boolean: true
+other_boolean: false
+
+# Boolean is also acceptable
+
+list: ['yea', 1, 2]
+
+# Lists
+# You can also assign value of one object to another object by typing first object name in value field
+# Like this:
+
+some_object: 'default string object'
+other_object: some_object
+
+#==========================================
+# |         By: TheSALUTYT
+# |          Since: 1.0
+# |         Version: 1.0
+# |         With love :3
+#==========================================
